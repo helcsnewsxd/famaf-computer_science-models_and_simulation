@@ -18,6 +18,7 @@ Repositorio que contiene todo el material correspondiente a la materia de Modelo
 | 2 | Procesos de Poisson | [Apunte](/clases/teorico/02_procesos_de_poisson.pdf) |
 | 3 | Números Aleatorios | [Apunte](/clases/teorico/03_numeros_aleatorios.pdf) |
 | 4 | Monte Carlo | [Apunte](/clases/teorico/04_monte_carlo.pdf) |
+| 5 | Generación de Variables Aleatorias Discretas | [Apunte](/clases/teorico/05_generacion_variables_aleatorias_discretas.pdf) |
 
 ### Material Extra
 
@@ -36,3 +37,4 @@ Repositorio que contiene todo el material correspondiente a la materia de Modelo
 | 1 | [Elementos de Probabilidad](/practicos/enunciados/01_guia_elementos_de_probabilidad.pdf) | . |
 | 2 | [Procesos de Poisson](/practicos/enunciados/02_guia_procesos_de_poisson.pdf) | . |
 | 3 y 4 | [Números Aleatorios y Monte Carlo](/practicos/enunciados/03_guia_numeros_aleatorios_y_monte_carlo.pdf) | . |
+| 5 | [Generación de Variables Aleatorias Discretas](/practicos/enunciados/04_guia_generacion_variables_aleatorias_discretas.pdf) | . |
