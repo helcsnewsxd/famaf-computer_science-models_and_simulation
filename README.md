@@ -14,10 +14,10 @@ Repositorio que contiene todo el material correspondiente a la materia de Modelo
 
 | Unidad | Tema | Material |
 |--------|------|----------|
-| . | . | . |
+| 1 | Conceptos Básicos de Probabilidad | [Apunte](/clases/teorico/01_conceptos_basicos_probabilidad.pdf) |
 
 ## Prácticos
 
 | Unidad | Enunciado | Resolución |
 |--------|-----------|------------|
-| . | . | . |
+| 1 | [Elementos de Probabilidad](/practicos/enunciados/01_guia_elementos_de_probabilidad.pdf) | . |
