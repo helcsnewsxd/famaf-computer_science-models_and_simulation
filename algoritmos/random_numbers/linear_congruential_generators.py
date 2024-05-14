@@ -1,5 +1,5 @@
 import math
-from primeUtility import isPrime, isPrimitiveRoot_forPrime, factorize
+from prime_utility import isPrime, isPrimitiveRoot_forPrime, factorize
 
 def congruentialGenerator(seed: int, a: int, c: int, m: int, n: int) -> list[int]:
     """
