@@ -29,7 +29,9 @@ def poisson_distribution(l: float, sz: int = 1) -> list[int]:
     return [generate(l) for _ in range(sz)]
 
 if __name__ == "__main__":
-    l = 3
-    c = dict()
-    for x in poisson_distribution(l, 10**6): c[x] = c.get(x, 0) + 1
-    for k in sorted(c.keys()): print(k, c[k]/sum(c.values()))
+    # Check if the generated random numbers are from the Poisson distribution.
+    l = 2
+    sz = 10**5
+    random_numbers = poisson_distribution(l, sz)
+    print(f"Expected mean: {l} and variance: {l}")
+    print(f"Actual mean: {np.mean(random_numbers)} and variance: {np.var(random_numbers)}")
