@@ -39,4 +39,29 @@ Repositorio que contiene todo el material correspondiente a la materia de Modelo
 | 2 | [Procesos de Poisson](/practicos/enunciados/02_guia_procesos_de_poisson.pdf) | [Solución](/practicos/soluciones/02_guia_soluciones.pdf) |
 | 3 y 4 | [Números Aleatorios y Monte Carlo](/practicos/enunciados/03_guia_numeros_aleatorios_y_monte_carlo.pdf) | [Escrita](./practicos/soluciones/03_guia_soluciones.pdf) y [Código](./practicos/soluciones/03_guia_soluciones.ipynb) |
 | 5 | [Generación de Variables Aleatorias Discretas](/practicos/enunciados/04_guia_generacion_variables_aleatorias_discretas.pdf) | [Código](./practicos/soluciones/04_guia_soluciones.ipynb) |
-| 6 | [Generación de Variables Aleatorias Continuas](/practicos/enunciados/05_guia_generacion_variables_aleatorias_continuas.pdf) | . |
+| 6 | [Generación de Variables Aleatorias Continuas](/practicos/enunciados/05_guia_generacion_variables_aleatorias_continuas.pdf) | [*No terminado*](./practicos/soluciones/05_guia_soluciones.ipynb) |
+
+## Algoritmos
+
+| Unidad | Algoritmo | Código |
+|--------|-----------|--------|
+| 3 | Von Neumann | [Código](./algoritmos/random_numbers/von_Neumann.py) |
+| 3 | Generadores Congruenciales Lineales | [Código](./algoritmos/random_numbers/linear_congruential_generators.py) |
+| 4 | Método de Monte Carlo (Integrales) | [Código](./algoritmos/random_numbers/monte_carlo.py) |
+| 5 | Método de la Transformada Inversa (Discreta) | [Código](./algoritmos/discrete_variables/inverse_method_discrete.py) |
+| 5 | Método de Aceptación y Rechazo (Discreta) | [Código](./algoritmos/discrete_variables/rejection_method_discrete.py) |
+| 5 | Método de Tasa de Riesgo | [Código](./algoritmos/discrete_variables/risk_rate_method.py) |
+| 5 | Método de la Urna | [Código](./algoritmos/discrete_variables/urn_method.py) |
+| 5 | Uniforme Discreta | [Código](./algoritmos/discrete_variables/uniform_discrete.py) |
+| 5 | Bernoulli | [Código](./algoritmos/discrete_variables/bernoulli.py) |
+| 5 | Binomial | [Código](./algoritmos/discrete_variables/binomial.py) |
+| 5 | Geométrica | [Código](./algoritmos/discrete_variables/geometric.py) |
+| 5 | Poisson | [Código](./algoritmos/discrete_variables/poisson.py) |
+| 5 | Suma con Monte Carlo | [Código](./algoritmos/discrete_variables/monte_carlo_sum.py) |
+| 5 | Permutaciones aleatorias | [Código](./algoritmos/discrete_variables/random_permutation.py) |
+| 6 | Método de la Transformada Inversa (Continua) | [Código](./algoritmos/continuous_variables/inverse_method_continuous.py) |
+| 6 | Método de Aceptación y Rechazo (Continua) | [Código](./algoritmos/continuous_variables/rejection_method_continuous.py) |
+| 6 | Exponencial | [Código](./algoritmos/continuous_variables/exponential.py) |
+| 6 | Gamma | [Código](./algoritmos/continuous_variables/gamma.py) |
+| 6 | Normal | [Código](./algoritmos/continuous_variables/normal.py) |
+| 6 | Procesos de Poisson | [Código](./algoritmos/continuous_variables/poisson_process.py) |
