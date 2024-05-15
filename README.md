@@ -39,7 +39,7 @@ Repositorio que contiene todo el material correspondiente a la materia de Modelo
 | 2 | [Procesos de Poisson](/practicos/enunciados/02_guia_procesos_de_poisson.pdf) | [Solución](/practicos/soluciones/02_guia_soluciones.pdf) |
 | 3 y 4 | [Números Aleatorios y Monte Carlo](/practicos/enunciados/03_guia_numeros_aleatorios_y_monte_carlo.pdf) | [Escrita](./practicos/soluciones/03_guia_soluciones.pdf) y [Código](./practicos/soluciones/03_guia_soluciones.ipynb) |
 | 5 | [Generación de Variables Aleatorias Discretas](/practicos/enunciados/04_guia_generacion_variables_aleatorias_discretas.pdf) | [Código](./practicos/soluciones/04_guia_soluciones.ipynb) |
-| 6 | [Generación de Variables Aleatorias Continuas](/practicos/enunciados/05_guia_generacion_variables_aleatorias_continuas.pdf) | [*No terminado*](./practicos/soluciones/05_guia_soluciones.ipynb) |
+| 6 | [Generación de Variables Aleatorias Continuas](/practicos/enunciados/05_guia_generacion_variables_aleatorias_continuas.pdf) | [Código](./practicos/soluciones/05_guia_soluciones.ipynb) |
 
 ## Algoritmos
 
