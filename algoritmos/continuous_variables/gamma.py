@@ -4,6 +4,7 @@ import numpy as np
 def gamma_distribution(a: int, b: float, sz: int = 1) -> list[float]:
     """
     Generates random numbers from a gamma distribution with shape parameter ('a') as integer.
+    I.e., a Erlang distribution.
 
     Parameters:
     a: int

@@ -64,6 +64,9 @@ Repositorio que contiene todo el material correspondiente a la materia de Modelo
 | 6 | Método de Aceptación y Rechazo (Continua) | [Código](./algoritmos/continuous_variables/rejection_method_continuous.py) |
 | 6 | Método de Composición (Continua) | [Código](./algoritmos/continuous_variables/composition_method_continuous.py) |
 | 6 | Exponencial | [Código](./algoritmos/continuous_variables/exponential.py) |
-| 6 | Gamma | [Código](./algoritmos/continuous_variables/gamma.py) |
+| 6 | Gamma (Erlang) | [Código](./algoritmos/continuous_variables/gamma.py) |
 | 6 | Normal | [Código](./algoritmos/continuous_variables/normal.py) |
+| 6 | Pareto | [Código](./algoritmos/continuous_variables/pareto.py) |
+| 6 | Weibull | [Código](./algoritmos/continuous_variables/weibull.py) |
+| 6 | Cauchy | [Código](./algoritmos/continuous_variables/cauchy.py) |
 | 6 | Procesos de Poisson | [Código](./algoritmos/continuous_variables/poisson_process.py) |
