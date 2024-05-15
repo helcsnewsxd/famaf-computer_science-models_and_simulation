@@ -52,6 +52,7 @@ Repositorio que contiene todo el material correspondiente a la materia de Modelo
 | 5 | Método de Aceptación y Rechazo (Discreta) | [Código](./algoritmos/discrete_variables/rejection_method_discrete.py) |
 | 5 | Método de Tasa de Riesgo | [Código](./algoritmos/discrete_variables/risk_rate_method.py) |
 | 5 | Método de la Urna | [Código](./algoritmos/discrete_variables/urn_method.py) |
+| 5 | Método de Composición (Discreta) | [Código](./algoritmos/discrete_variables/composition_method_discrete.py) |
 | 5 | Uniforme Discreta | [Código](./algoritmos/discrete_variables/uniform_discrete.py) |
 | 5 | Bernoulli | [Código](./algoritmos/discrete_variables/bernoulli.py) |
 | 5 | Binomial | [Código](./algoritmos/discrete_variables/binomial.py) |
@@ -61,6 +62,7 @@ Repositorio que contiene todo el material correspondiente a la materia de Modelo
 | 5 | Permutaciones aleatorias | [Código](./algoritmos/discrete_variables/random_permutation.py) |
 | 6 | Método de la Transformada Inversa (Continua) | [Código](./algoritmos/continuous_variables/inverse_method_continuous.py) |
 | 6 | Método de Aceptación y Rechazo (Continua) | [Código](./algoritmos/continuous_variables/rejection_method_continuous.py) |
+| 6 | Método de Composición (Continua) | [Código](./algoritmos/continuous_variables/composition_method_continuous.py) |
 | 6 | Exponencial | [Código](./algoritmos/continuous_variables/exponential.py) |
 | 6 | Gamma | [Código](./algoritmos/continuous_variables/gamma.py) |
 | 6 | Normal | [Código](./algoritmos/continuous_variables/normal.py) |
