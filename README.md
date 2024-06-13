@@ -43,7 +43,7 @@ Repositorio que contiene todo el material correspondiente a la materia de Modelo
 | 3 y 4 | [Números Aleatorios y Monte Carlo](/practicos/enunciados/03_guia_numeros_aleatorios_y_monte_carlo.pdf) | [Escrita](./practicos/soluciones/03_guia_soluciones.pdf) y [Código](./practicos/soluciones/03_guia_soluciones.ipynb) |
 | 5 | [Generación de Variables Aleatorias Discretas](/practicos/enunciados/04_guia_generacion_variables_aleatorias_discretas.pdf) | [Código](./practicos/soluciones/04_guia_soluciones.ipynb) |
 | 6 | [Generación de Variables Aleatorias Continuas](/practicos/enunciados/05_guia_generacion_variables_aleatorias_continuas.pdf) | [Código](./practicos/soluciones/05_guia_soluciones.ipynb) |
-| 7 y 8 | [Análisis Estadístico de Datos Simulados y Técnicas de Validación Estadística](./practicos/enunciados/06_guias_analisis_y_tecnicas_de_validacion_estadisticas.pdf) | - |
+| 7 y 8 | [Análisis Estadístico de Datos Simulados y Técnicas de Validación Estadística](./practicos/enunciados/06_guias_analisis_y_tecnicas_de_validacion_estadisticas.pdf) | [Código](./practicos/soluciones/06_guia_soluciones.ipynb) |
 | 9 | [Cadenas de Markov](./practicos/enunciados/07_guia_cadenas_de_markov.pdf) | - |
 
 ## Algoritmos
