@@ -48,7 +48,7 @@ Repositorio que contiene todo el material correspondiente a la materia de Modelo
 
 ## Trabajo Práctico Especial
 
-El trabajo fue resuelto en el siguiente [repositorio](./famaf-computer_science-models_and_simulation-probability_distribution_selection/)
+El trabajo fue resuelto en el siguiente [repositorio](https://github.com/helcsnewsxd/famaf-computer_science-models_and_simulation-probability_distribution_selection)
 
 ## Algoritmos
 
