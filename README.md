@@ -46,6 +46,10 @@ Repositorio que contiene todo el material correspondiente a la materia de Modelo
 | 7 y 8 | [Análisis Estadístico de Datos Simulados y Técnicas de Validación Estadística](./practicos/enunciados/06_guias_analisis_y_tecnicas_de_validacion_estadisticas.pdf) | [Código](./practicos/soluciones/06_guia_soluciones.ipynb) |
 | 9 | [Cadenas de Markov](./practicos/enunciados/07_guia_cadenas_de_markov.pdf) | - |
 
+## Trabajo Práctico Especial
+
+El trabajo fue resuelto en el siguiente [repositorio](./famaf-computer_science-models_and_simulation-probability_distribution_selection/)
+
 ## Algoritmos
 
 | Unidad | Algoritmo | Código |
