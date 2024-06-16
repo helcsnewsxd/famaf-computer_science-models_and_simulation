@@ -79,3 +79,6 @@ El trabajo fue resuelto en el siguiente [repositorio](https://github.com/helcsne
 | 6 | Weibull | [Código](./algoritmos/continuous_variables/weibull.py) |
 | 6 | Cauchy | [Código](./algoritmos/continuous_variables/cauchy.py) |
 | 6 | Procesos de Poisson | [Código](./algoritmos/continuous_variables/poisson_process.py) |
+| 7 | Estimadores de máxima verosimilitud | [Código](./algoritmos/statistical_analysis_and_validation/estimators.py) |
+| 8 | Test de Chi Cuadrado (Pearson) | [Código](./algoritmos/statistical_analysis_and_validation/pearson.py) |
+| 8 | Test de Kolmogorov-Smirnov | [Código](./algoritmos/statistical_analysis_and_validation/kolmogorov.py) |
